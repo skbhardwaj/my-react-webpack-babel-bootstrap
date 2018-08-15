@@ -1,0 +1,20 @@
+# Build and Release Folders
+/build_settings/
+/dist/**/*.*
+/node_modules/
+npm-debug.log
+*.sublime-project
+*.sublime-workspace
+
+# Other files and folders
+.vlt
+.DS_Store
+*.dir
+*.tmp
+**/quickstart/*
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+.project
+.settings
+.classpath
+*.html.binary
